@@ -33,7 +33,7 @@
     <!-- Control sidebar content goes here --> 
   </aside> 
  
- 
+ @include('sweetalert::alert')
   <!-- /.control-sidebar --> 
 </div> 
 </body> 
